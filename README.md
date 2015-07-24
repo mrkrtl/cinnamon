@@ -1,0 +1,2 @@
+# cinnamon
+PCBSD Cinnamon install
